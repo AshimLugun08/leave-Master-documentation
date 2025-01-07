@@ -14,16 +14,24 @@ work=>
 Leave_Master List:
 
 Employee Name (Title): Tracks the name of the employee requesting leave.
+
 Leave Type (Choice): Specifies the type of leave (e.g., Sick, Vacation, etc.).
+
 Start Date: The date when the leave begins.
+
 End Date: The date when the leave ends.
+
 Reason: A brief description or reason for the leave.
+
 Approval Status (Choice): Shows the status of the leave request (e.g., Pending, Approved, Rejected).
+
 Linked Holiday (Lookup): A lookup column that links to the Holiday_List_MD, allowing employees to cross-reference holidays when applying for leave.
 Holiday_List_MD:
 
 Holiday Name (Title): The name of the public holiday.
+
 Date: The specific date of the holiday.
+
 Description: Additional information about the holiday (e.g., national holiday, company-wide holiday, etc.).
 
 
