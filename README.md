@@ -10,7 +10,7 @@ task=> Explore About the MicroSoft SharePoint and Create basic pages and lists f
 
 work=>
 
-1. Create Lists
+step 1. Create Lists
 Leave_Master List:
 
 Employee Name (Title): Tracks the name of the employee requesting leave.
@@ -36,16 +36,16 @@ Date: The specific date of the holiday.
 Description: Additional information about the holiday (e.g., national holiday, company-wide holiday, etc.).
 
 
-2. Create Document Library
+step 2. Create Document Library
 Added a document library to store leave-related documents (e.g., medical certificates, leave approval letters).
 Linked Column to Employee Name: This column links the document to the employee, helping to associate leave-related files with their corresponding requests in the Leave_Master list.
 
 
-3. Create a View
+step 3. Create a View
 Pending Leave View: Created a customized view called Pending Leave to filter and display only the leave requests that are still in the Pending status. This allows managers or HR to quickly review and act on pending leave requests.
 
 
-4. Add List View to the SharePoint Site
+step 4. Add List View to the SharePoint Site
 The Leave_Master list, Holiday_List_MD, and Leave Documents are centralized and displayed on a single SharePoint page.
 View all leave requests and their statuses.
 Check the holidays from the Holiday_List_MD.
