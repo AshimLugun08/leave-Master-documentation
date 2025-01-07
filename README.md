@@ -12,7 +12,10 @@ Create Lists
              Add columns: Employee Name (Title), Leave Type (Choice), Start Date, End Date, Reason, Approval Status (Choice), Linked Holiday (Lookup).
             Holiday_List_MD:
              Add columns: Holiday Name (Title), Date, Description.
- Create Document Library
+Create Document Library
             Added a column linking to Leave_Master to refrence leave request.
- Created a view
+Created a view
             Created a view of name Pending Leave. 
+Add List View to the SharePoint Site
+            centralizes and displays leave requests, holiday details, and related documents on a single SharePoint page, enabling users to easily view and interact with all 
+            relevant data in one place.
